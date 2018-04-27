@@ -1,7 +1,7 @@
 /*
-アッレクスの語
-ユニコデ好きです。
-スタックです。
+Alex Yeo
+For CMSC21 Lab
+Have fun!
 */
 #include <iostream>
 #include <string.h>
